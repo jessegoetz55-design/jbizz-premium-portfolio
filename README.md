@@ -9,5 +9,5 @@ We specialize in modern, responsive websites, UI/UX design, and custom client so
 - Premium Case Studies → [Repo link / Live demo]
 
 ## Contact
-- Email: your-email@example.com
+- Email: jbizzweb@gmail.com
 - Website / Portfolio: https://your-domain.com
